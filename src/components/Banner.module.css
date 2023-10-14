@@ -1,0 +1,10 @@
+.Banner{
+    background-image: url("/public/Anime.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100% ;
+    background-position: center;
+    height: 85vh;
+    position: relative;
+    color: #fff;
+}

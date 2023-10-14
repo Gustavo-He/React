@@ -1,0 +1,17 @@
+.card{
+    background-color: #9d9191;
+    margin:100px;
+    padding: 15px;
+    width: fit-content;
+    transition: 1.5s;
+}
+
+.card:hover{
+    background-color: aliceblue;
+    transition: 1s;
+
+}
+
+.card img {
+    max-width: 100%;
+}
